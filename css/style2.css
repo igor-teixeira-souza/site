@@ -1,0 +1,21 @@
+body {
+    background-image: url(../img/1920x1080-red-solid-color-background.jpg);
+}
+
+.Titulo {
+    color: antiquewhite;
+}
+
+.topleft {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    top: 20px;
+    left: 30px;
+
+}
+
+.imagemcentral {
+    position: absolute;
+    top: 100px;
+}
