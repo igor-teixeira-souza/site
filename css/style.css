@@ -1,7 +1,23 @@
 body {
-    background-color: rgb(157, 93, 230);
+    background-color: rgb(63, 10, 10);
 }
 
 .titulo {
-    color: rgb(233, 240, 236);
+    color: rgb(253, 225, 225);
+}
+
+.aviso {
+    color: rgb(248, 208, 208);
+}
+
+.nome {
+    color: purple;
+}
+
+.aviso2 {
+    color: rgb(253, 212, 212);
+}
+
+.nome2 {
+    color: rgb(255, 0, 0);
 }
